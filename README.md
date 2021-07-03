@@ -1,24 +1,2 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# About
+ブックマーク管理サービス(サービス利用者にAmazonや楽天の買い物を運営側のアフィリエイトパラメーターを持って買い物をさせることができるのが特徴)
